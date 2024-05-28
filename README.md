@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experiência na área de Engenharia Elétrica, com ênfase em Potência,<br> Controle ,Instalações elétricas, Circuitos Elétricos, Magnéticos e<br> Eletrônicos <br>Conhecimento básico em programação e robótica, com ênfase nas<br> linguagens: C++ , JavaScript ,html, CSS e Python<br> Desenho de plantas e projetos elétricos através do software  AutoCAD <br>Conhecimento intermediário em Word , Excel e Power Point.
+Experiência na área de Engenharia Elétrica, com ênfase em Potência,<br> Controle ,Instalações elétricas, Circuitos Elétricos, Magnéticos e<br> Eletrônicos <br>Conhecimento básico em programação e robótica<br> Desenho de plantas e projetos elétricos <br>.
 
 
 # 💻 Tech Stack:
